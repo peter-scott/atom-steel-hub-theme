@@ -1,3 +1,3 @@
-# Steel-Hub Hazmark
+# Steel-Hub Theme
 
-Provides syntax highlighting for Steel-Hub Hazmark.
+Provides syntax highlighting for Steel-Hub markup languages.
