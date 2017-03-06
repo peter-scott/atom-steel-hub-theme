@@ -1,7 +1,7 @@
 {
   "name": "steel-hub-theme",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Steel-Hub flavour of the Base16 Tomorrow Dark Syntax theme; adds explicit colouring for Steel-Hub markup languages",
   "repository": "https://github.com/peter-scott/atom-steel-hub-theme.git",
   "keywords": [
